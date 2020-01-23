@@ -15,12 +15,15 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 
 .clear {clear: both;}
 
-ul {
-	font-size: 1em;
-	line-height: 1.4em;
-	margin-bottom: 20px;
-	color: #444;
+li{
+    margin-top: 10px;
+    border:1px solid grey;
 }
+
+li:first-child {
+    margin-top:0;
+}
+
 p {
 	font-size: 1em;
 	line-height: 1.4em;
