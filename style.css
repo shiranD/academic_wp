@@ -15,13 +15,10 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 
 .clear {clear: both;}
 
-li{
-    margin-top: 10px;
-    border:1px solid grey;
-}
-
-li:first-child {
-    margin-top:0;
+li {
+    padding-bottom: 20px;
+	font-size: 1em;
+	color: #444;
 }
 
 p {
