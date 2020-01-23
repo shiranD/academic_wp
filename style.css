@@ -16,7 +16,7 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 .clear {clear: both;}
 
 li {
-    padding-bottom: 10px;
+    padding-bottom: 7px;
 	font-size: 1em;
 	color: #444;
 }
